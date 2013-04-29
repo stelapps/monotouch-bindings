@@ -1,0 +1,120 @@
+<Type Name="Options" FullName="MonoTouch.TestFlight.Options">
+  <TypeSignature Language="C#" Value="public enum Options" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed Options extends System.Enum" />
+  <AssemblyInfo>
+    <AssemblyName>TestFlight</AssemblyName>
+    <AssemblyVersion>0.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Attributes>
+    <Attribute>
+      <AttributeName>System.Flags</AttributeName>
+    </Attribute>
+  </Attributes>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="AttachBacktraceToFeedback">
+      <MemberSignature Language="C#" Value="AttachBacktraceToFeedback" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype MonoTouch.TestFlight.Options AttachBacktraceToFeedback = int32(1)" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyVersion>0.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>MonoTouch.TestFlight.Options</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="DisableAutoDeviceIdentifying">
+      <MemberSignature Language="C#" Value="DisableAutoDeviceIdentifying" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype MonoTouch.TestFlight.Options DisableAutoDeviceIdentifying = int32(64)" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyVersion>0.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>MonoTouch.TestFlight.Options</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="DisableInAppUpdates">
+      <MemberSignature Language="C#" Value="DisableInAppUpdates" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype MonoTouch.TestFlight.Options DisableInAppUpdates = int32(2)" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyVersion>0.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>MonoTouch.TestFlight.Options</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="LogToConsole">
+      <MemberSignature Language="C#" Value="LogToConsole" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype MonoTouch.TestFlight.Options LogToConsole = int32(4)" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyVersion>0.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>MonoTouch.TestFlight.Options</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="LogToSTDERR">
+      <MemberSignature Language="C#" Value="LogToSTDERR" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype MonoTouch.TestFlight.Options LogToSTDERR = int32(8)" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyVersion>0.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>MonoTouch.TestFlight.Options</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="ReinstallCrashHandlers">
+      <MemberSignature Language="C#" Value="ReinstallCrashHandlers" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype MonoTouch.TestFlight.Options ReinstallCrashHandlers = int32(16)" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyVersion>0.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>MonoTouch.TestFlight.Options</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="SendLogOnlyOnCrash">
+      <MemberSignature Language="C#" Value="SendLogOnlyOnCrash" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype MonoTouch.TestFlight.Options SendLogOnlyOnCrash = int32(32)" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyVersion>0.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>MonoTouch.TestFlight.Options</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>
